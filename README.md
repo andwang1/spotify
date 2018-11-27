@@ -1,5 +1,9 @@
 # Spotify Web API
 
+--- INTRO ---
+
+This is a Python script that uses the Requests library to connect to the Spotify Web API endpoints to perform playlist operations such as retrieving, adding and deleting tracks.
+
 --- SPOTIFY AUTHORIZATION STEPS ---
 
 This program will lead the user through the Spotify API Authorization Code Flow as outlined on https://developer.spotify.com/documentation/general/guides/authorization-guide/#authorization-code-flow.
